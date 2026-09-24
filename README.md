@@ -18,7 +18,7 @@ The analysis examines whether vegetation response differs among burn-severity cl
 
 ### NDVI Change by Burn Severity
 
-![NDVI Change by Burn Severity](figures/NDVI_Change.png)
+![NDVI Change by Burn Severity](./figures/NDVI_Change.png)
 
 ## Workflow
 
