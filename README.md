@@ -8,6 +8,18 @@ This project evaluates post-fire vegetation change using satellite-derived NDVI,
 
 The analysis examines whether vegetation response differs among burn-severity classes and whether those changes exhibit spatial clustering.
 
+## StoryMap
+
+[View the full ArcGIS StoryMap](https://storymaps.arcgis.com/stories/46de322b755448eb80eb582f3ea8b4ee)
+
+### Burn Severity
+
+![Burn Severity](figures/Burn_Severity.png)
+
+### NDVI Change by Burn Severity
+
+![NDVI Change by Burn Severity](figures/NDVI_Change.png)
+
 ## Workflow
 
 **Remote sensing + GIS → ArcGIS Pro/ArcPy → structured pixel-level dataset → Python statistical analysis → visualization and interpretation**
