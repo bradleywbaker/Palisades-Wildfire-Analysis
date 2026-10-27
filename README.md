@@ -62,6 +62,5 @@ Detailed maps, visualizations, and interpretation are presented in the accompany
 ```text
 Palisades-Wildfire-Analysis/
 ├── README.md
-├── notebooks/
-│   └── Wildfire_Statistical_Analysis.ipynb
-└── .gitignore
+├── Wildfire_Statistical_Analysis.ipynb
+└── figures/
