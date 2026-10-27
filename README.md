@@ -51,7 +51,7 @@ Raw datasets and ArcGIS geodatabases are not included in this repository because
 
 ## Results
 
-The study area covered approximately 23,991 acres.
+The analysis covered 106,006 pixels (about 23,350 acres) within the fire perimeter.
 
 The analysis identified a statistically significant difference in NDVI change among burn-severity classes and evidence of spatial clustering in NDVI-change values.
 
