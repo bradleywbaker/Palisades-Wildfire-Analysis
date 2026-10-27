@@ -1,4 +1,4 @@
-# Palisades Wildfire Impact and Vegetation Recovery
+# Palisades Wildfire Impact and Vegetation Response
 
 Geospatial and statistical analysis of vegetation response following the 2025 Palisades Fire in Los Angeles County, California.
 
