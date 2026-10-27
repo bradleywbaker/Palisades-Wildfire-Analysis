@@ -44,7 +44,7 @@ The statistical analysis uses Python libraries including pandas, NumPy, and SciP
 Primary datasets include:
 
 - Burned Area Emergency Response (BAER) burn-severity data
-- NASA Harmonized Landsat and Sentinel-2 (HLS) imagery and derived NDVI
+- Copernicus Sentinel-2 imagery (10 m, resampled 30 m) and derived NDVI
 - National Land Cover Database (NLCD) land-cover data
 
 Raw datasets and ArcGIS geodatabases are not included in this repository because of their size and because the source datasets are publicly available from their respective providers.
